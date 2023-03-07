@@ -1,0 +1,11 @@
+* { 
+    text-align: center;
+    text-decoration: solid;
+    margin: 0px;
+    padding: 1px;
+    line-height: 20px;   
+}
+#submit {
+      width: 84px;
+      height: 30px;
+}
